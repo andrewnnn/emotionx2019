@@ -1,9 +1,11 @@
 EmotionX 2019
 ==============================
 Author: Andrew Nguyen
+
 Date: 10/06/2019
 
 Summary: Repo for EmotionX 2019 competition which was to detect emotion in text conversations.
+
 Refer to [TODO: link paper] for system and competition details.
 
 ## Requirements
